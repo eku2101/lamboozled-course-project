@@ -1,0 +1,25 @@
+Subject: Lamboozled demo + wireframe - let's plan our next steps
+
+Hi everyone,
+
+I put together a kid-friendly Lamboozled demo and a wireframe that we can use as a starting point for our project. The demo includes turns, sample action cards, dropping evidence, scoring, and accessibility features.
+
+Try the demo here:
+https://lamboozled-course-studio.eku2101.chatgpt.site/#lobby
+
+View the wireframe here:
+https://lamboozled-course-studio.eku2101.chatgpt.site/wireframe
+
+View the code, wireframe handout, and team instructions on GitHub:
+https://github.com/eku2101/lamboozled-course-project
+
+You can open both links in your browser - no ZIP download or installation needed. The demo is pass-and-play, so players take turns on one shared device.
+
+Please take a look and share any changes or additions you'd like to make with the whole team. This is a starting point for us to build on together!
+
+Can we schedule a 30-minute meeting this week to review the demo, agree on our next steps, and assign roles for each part of the wireframe? There are four suggested work packages, with two modules per person, but we can adjust the split together.
+
+Please reply with two or three times you're available and which parts you're most interested in working on. Let's also agree on our first tasks and deadlines so we can get started as soon as possible.
+
+Thanks!
+Erin
