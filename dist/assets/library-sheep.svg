@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 240" fill="none">
+  <title>A sheep reading outside the Green Meadows library</title>
+  <g stroke="#263b43" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M9 214q101-43 191-10t251 1" stroke="#b9ccae"/>
+    <path d="M213 95h195v113H213Z" fill="#f5edce"/>
+    <path d="m202 95 106-58 113 58Z" fill="#a1d5d9"/>
+    <path d="M287 152h45v56h-45Z" fill="#fffaf0"/>
+    <path d="M232 128h33v34h-33Zm123 0h33v34h-33Z" fill="#d8eced"/>
+    <path d="M248 128v34m-16-17h33m106-17v34m-16-17h33" stroke-width="2"/>
+    <path d="M232 102h155v18H232Z" fill="#fffaf0"/>
+    <text x="310" y="115" text-anchor="middle" fill="#263b43" stroke="none" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">LIBRARY</text>
+    <path d="M71 182q-20-10-12-28-12-19 5-31-2-24 23-26 13-20 33-7 21-9 33 11 22 2 22 24 20 12 7 31 7 22-15 29-10 24-32 15-21 15-37-3-22 5-27-15Z" fill="#fffdf6"/>
+    <path d="m88 190-4 22h16l5-20m39 0 5 20h16l-7-24" fill="#263b43"/>
+    <path d="M102 117q-31-21-33-6 1 17 31 21m49-15q26-25 31-10 1 14-28 27" fill="#263b43"/>
+    <path d="M101 113q27-14 50 2l-1 37q-23 25-48-2Z" fill="#263b43"/>
+    <ellipse cx="114" cy="130" rx="10" ry="13" fill="white" stroke="none"/><ellipse cx="138" cy="128" rx="10" ry="13" fill="white" stroke="none"/>
+    <circle cx="117" cy="134" r="4" fill="#263b43" stroke="none"/><circle cx="139" cy="133" r="4" fill="#263b43" stroke="none"/>
+    <path d="m80 161 43 8 41-11-1 36-39 10-41-9Z" fill="#fffdf6"/>
+    <path d="m124 170 0 31m-31-27 20 3m-20 5 20 3m23-10 15-4m-15 12 15-4" stroke-width="2"/>
+    <path d="M30 204v-39m-1 18q-24-20-21-4 1 13 22 12m1-24q20-25 19-7 0 13-19 15" stroke="#6a9764"/>
+    <path d="M431 210v-32m0 16q-19-20-21-6 4 9 21 12" stroke="#6a9764"/>
+  </g>
+  <circle cx="381" cy="39" r="18" fill="#efca63"/>
+  <path d="M34 61q8-9 16 0m-16-10q8-9 16 0M160 42q8-9 16 0" stroke="#7c9b9f" stroke-width="3" stroke-linecap="round"/>
+</svg>
