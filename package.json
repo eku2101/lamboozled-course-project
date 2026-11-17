@@ -1,0 +1,7 @@
+{
+  "name": "lamboozled-course-prototype",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Playable pass-and-play course game with original sample cards",
+  "scripts": { "start": "node serve.mjs", "check": "node check.mjs", "test": "node --test test-game.mjs" }
+}

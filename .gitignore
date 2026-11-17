@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.openai/
+.codex/
+.agents/
+__pycache__/
+*.pyc
+.venv/
+tmp/
+*.tar.gz
+*.zip
+.DS_Store
+Thumbs.db
